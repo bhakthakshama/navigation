@@ -1,0 +1,21 @@
+.color1{
+    color: #3083dc;
+}
+.color2{
+    color: #f8ffe5;
+    background-color: #f8ffe5;
+}
+.color3{
+    color: #4e4187;
+}
+.div1{
+    width: 100%;
+    height:fit-content;
+}
+.div2{
+    flex-direction: row;
+    -ms-flex-item-align: end;
+    flex:auto;
+
+    
+}
